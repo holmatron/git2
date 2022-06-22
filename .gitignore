@@ -1,2 +1,3 @@
 secrets/aws/*
 *.py
+node_modules
